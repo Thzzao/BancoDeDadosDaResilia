@@ -1,3 +1,6 @@
+-- POPULANDO O BANCO DE DADOS 
+
+-- Inserindo os dados de endereço dos alunos 
 INSERT INTO endereco (rua, bairro, cep, cidade, complemento, uf, pais) VALUES
 ('Rua das Amoras', 'Alto da XV', '80045010', 'Curitiba', 'Apto 101', 'PR', 'Brasil'),
 ('Rua das Rosas', 'Centro', '80020060', 'Curitiba', 'Apto 201', 'PR', 'Brasil'),
@@ -64,12 +67,14 @@ INSERT INTO endereco (rua, bairro, cep, cidade, complemento, uf, pais) VALUES
 ('Rua Joge Matos', 'Agua Verde', '81843200', 'Curitiba', NULL, 'PR', 'Brasil'),
 ('Rua Sebastiao Parana', 'Cajuru', '81867345', 'Curitiba', NULL, 'PR', 'Brasil');
 
+-- Inserindo os dados de cursos da nossa instituição 
 INSERT INTO curso (nome,duracao) values
 ('Formação Web Full Stack JavaScript','6 meses'),
 ('Formação Web Full Stack Java','6 meses'),
 ('Formação Análise de Sistemas','6 meses'),
 ('Formação em Data Analytics','6 meses');
 
+-- Inserindo os dados dos módulos de cada curso 
 INSERT INTO modulo (nome, qtd_aulas) values
 ('JavaScript', 20),
 ('Node', 20),
@@ -84,6 +89,7 @@ INSERT INTO modulo (nome, qtd_aulas) values
 ('Rest API', 20),
 ('Java', 20);
 
+-- Fazendo a integração da tabela de cursos com os respectivos módulos 
 INSERT INTO curso_modulo (cursos_id, modulos_id) VALUES
 (1,1),
 (1,2),
@@ -108,6 +114,7 @@ INSERT INTO curso_modulo (cursos_id, modulos_id) VALUES
 (4,9),
 (4,10);
 
+-- População da tabela status onde contém as notas, frequência e índice de evasão dos alunos
 INSERT INTO status (frequencia, nota, evasao) VALUES
 (90, 88, 'ativo'),
 (98, 76, 'ativo'),
@@ -174,6 +181,7 @@ INSERT INTO status (frequencia, nota, evasao) VALUES
 (87, 83, 'ativo'),
 (98, 53, 'ativo');
 
+-- Inserção dos dados de todas as pessoas
 INSERT INTO pessoa (nome, email, genero, data_nasc, cpf, telefone, endereco_id) VALUES
 ('Ana Silva', 'ana@example.com', 'Feminino', '1990-03-15', '12345678901', '(41) 1111-1111', 1),
 ('João Santos', 'joao@example.com', 'Masculino', '1985-08-22', '23456789012', '(41) 2222-2222', 2),
@@ -240,6 +248,7 @@ INSERT INTO pessoa (nome, email, genero, data_nasc, cpf, telefone, endereco_id) 
 ('Mariana Gomes', 'mariana@example.com', 'Feminino', '1999-11-11', '90123456789', '(41) 9999-9999', 63),
 ('André Oliveira', 'andre@example.com', 'Masculino', '1982-06-14', '12345678901', '(41) 1111-1111', 64);
 
+-- Inserção das senhas dos estudantes
 INSERT INTO estudante (senha, pessoas) VALUES
 ('p4ssw0rd1', 1),
 ('s3cur3p@ss', 2),
@@ -302,17 +311,20 @@ INSERT INTO estudante (senha, pessoas) VALUES
 ('s3cur3p@ss', 59),
 ('p4ssw0rd1', 60);
 
+-- População da tabela facilitadores
 INSERT INTO facilitador (senha, frente,pessoas_id ) VALUES
 ('p15ww@e6','soft',61),
 ('fsf2v@ss','hard',62),
 ('ba4rp@st','soft',63),
 ('ser7p@wr','hard',64);
 
+-- Criação das turmas
 INSERT INTO turma (nome, periodo, curso_id) VALUES
 ('509E', 'Manha', 1),
 ('545D', 'Tarde', 2),
 ('565T', 'Noite', 3);
 
+-- Integração das turmas com os respectivos facilitadores de cada uma
 INSERT INTO facilitador_turma (facilitador_id, turma_id ) VALUES
 (1,1),
 (2,1),
@@ -321,6 +333,7 @@ INSERT INTO facilitador_turma (facilitador_id, turma_id ) VALUES
 (4,3),
 (2,3);
 
+-- Integração do estudante com sua turma e seu status 
 INSERT INTO estudante_turma (matricula, estudante_id, turma_id, status_id) VALUES
   ('AB12301', 1, 1, 1),
   ('AC67802', 2, 2, 2),
