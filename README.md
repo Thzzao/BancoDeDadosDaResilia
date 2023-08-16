@@ -3,7 +3,7 @@ Projeto em grupo do curso de Desenvolvedor Full Stack da Resilia Educação em p
 Desenvolvimento de um banco de dados para gerenciamento da estrutura de ensino da empresa.
 
 ## Apresentação
-Criação de um banco de dados usado para armazenar as informações da empresa de cursos Resilia. Foi utilizado o *MySQL Workbench* para criar a base de dados seguindo o diagrama feito no *dbDiagram* para facilitar a modelagem do banco. Algumas pesquisas foram feitas usando o *Google Sheets* para tirar algumas informações interresantes da nossa base de dados. Para melhor organização da equipe na divisão dos trabalhos usamos o *Trelo*. E para apresentar o trabalho de maneira mais visual utilizamos o *Canva* para estilizar e montar a apresentação. 
+Criação de um banco de dados usado para armazenar as informações da empresa de cursos Resilia. Foi utilizado o **MySQL Workbench** para criar a base de dados seguindo o diagrama feito no **dbDiagram** para facilitar a modelagem do banco. Algumas pesquisas foram feitas usando o **Google Sheets** para tirar algumas informações interresantes da nossa base de dados. Para melhor organização da equipe na divisão dos trabalhos usamos o **Trelo**. E para apresentar o trabalho de maneira mais visual utilizamos o **Canva** para estilizar e montar a apresentação. 
 
 ## Funcionalidades 
 - Cadastro de pessoas 
@@ -16,9 +16,8 @@ Criação de um banco de dados usado para armazenar as informações da empresa 
 ## Diagrama do banco de dados 
 Para melhor entendimento da estrutura do banco, foi criado um **MER** (Modelo Entidade Relacionamento) para melhor visualização dos relacionamentos e para a modelagem das estruturas das tabelas utilizadas no sistema. 
 
-<!-- Colar o print do DB -->
-
-Para acessar o diagrama [clique aqui!](https://dbdiagram.io/)
+![Copy_of_Untitled_Diagram_1](https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/ed082787-2e94-4501-ac1f-7fc7872817fb)
+Para acessar o diagrama [clique aqui!](https://dbdiagram.io/) 
 
 ## Entidades
 O banco foi desenvolvido pensando em 11 entidades principais: 
@@ -57,15 +56,15 @@ Este trabalho foi elaborado por uma squad de 5 pessoas. Cada membro contribuiu c
 
 <div class="container">
 
-[<img class="imagem" src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG"> <p>Jhoshuan Cristopher</p>](https://github.com/Jhosh-Christopher)
+[<img class="imagem" src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG"><p>Jhoshuan Cristopher</p>](https://github.com/Jhosh-Christopher)
 
-[<img class="imagem" src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG"> <p>Thiago Souza</p>](https://github.com/Thzzao) 
+[<img class="imagem" src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG"><p>Thiago Souza</p>](https://github.com/Thzzao) 
 
-[<img class="imagem" src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG"> <p>Malena Stefano</p>](https://github.com/tsarinatsarina)
+[<img class="imagem" src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG"><p>Malena Stefano</p>](https://github.com/tsarinatsarina)
 
-[<img class="imagem" src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG"> <p>Dayane Stefane</p>](https://github.com/Dayane99) 
+[<img class="imagem" src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG"><p>Dayane Stefane</p>](https://github.com/Dayane99) 
 
-[<img class="imagem" src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG"> <p>Emerson Chagas</p>](https://github.com/emerchagas)
+[<img class="imagem" src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG"><p>Emerson Chagas</p>](https://github.com/emerchagas)
 
 </div> 
 <style>
@@ -78,7 +77,7 @@ Este trabalho foi elaborado por uma squad de 5 pessoas. Cada membro contribuiu c
         flex-wrap: wrap;
     }
     .imagem{
-        width:120px;
+        width:100px;
     }
 </style>
 
