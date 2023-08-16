@@ -46,27 +46,24 @@ git clone https://github.com/Thzzao/BancoDeDadosDaResilia.git
 
 ## Uso 🛠️
 
-Além de todos os cadastros que o banco é capaz de fazer para controlar os dados da empresa, ele também foi usado para responder algumas perguntas de cunho estratégico como por exemplo a porcentagem de estudantes com status de evasão agrupados por turma, a quantidade total de estudantes cadastrados no banco e quais pessoas facilitadoras atuam em mais de uma turma. Além dessas, é possivel fazer pesquisas para atender outras perguntas que nosso banco é capaz de responder.
+Além de todos os cadastros que o banco é capaz de fazer para controlar os dados da empresa, ele também foi usado para responder algumas perguntas de cunho estratégico como por exemplo: a porcentagem de estudantes com status de evasão agrupados por turma, a quantidade total de estudantes cadastrados no banco, quais pessoas facilitadoras atuam em mais de uma turma, quais estudantes tem a frequência acima de 80% e notas maiores ou iguais a 7 ou notas menores ou iguais a 5. Além dessas, é possivel fazer pesquisas para atender outras perguntas que nosso banco é capaz de responder.
 
-Para rodas as respostas dessas pesquisar você pode rodar o script **Resilia_perguntas.sql**.
+Para verificar as respostas dessas perguntas você pode rodar o script **Resilia_perguntas.sql** onde as queries (consultas) estão prontas, só será necessário rodar elas no [MySQL Workbench.](https://www.mysql.com/products/workbench/) após a criação do banco e da população na parte de *Requisitos e instalação*.
 
 ## Equipe de desenvolvimento ✒️
 Este trabalho foi elaborado por uma squad de 5 pessoas. Cada membro contribuiu com suas habilidades únicas para criar a aplicação. Os integrantes da equipe foram:
 
 <div align="center" float="left">
-  <img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width="130"/>
-  <img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width="130" />
-  <img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width="130" />
-  <img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width="130" />
-  <img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width="130" />
+  <img src="https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/7c61b697-a0e6-470b-81fb-4590abd37003" width="130"/>
+  <img src="https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/2193a5de-21eb-4f1f-b1cf-31e0e255bebf" width="130" />
+  <img src="https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/7f78379d-7daa-4c43-ba6a-ce1adec4df3f" width="130" />
+  <img src="https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/2c8ae6df-9cd2-4fee-afd3-25bec0d14043" width="130" />
+  <img src="https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/a834e153-85a6-46aa-8f7b-11faf38bf83f" width="130" />
 
 
 
 ### [Jhoshuan Cristopher](https://github.com/Jhosh-Christopher) | [Thiago Souza](https://github.com/Thzzao) | [Malena Stefano](https://github.com/tsarinatsarina) | [Dayane Stefane](https://github.com/Dayane99) | [Emerson Chagas</p>](https://github.com/emerchagas)
 
 </div> 
-
-
-
 
 
