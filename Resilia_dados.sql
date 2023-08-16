@@ -264,7 +264,7 @@ INSERT INTO estudante (senha, pessoas) VALUES
 ('p@ssw0rd123', 16),
 ('myP@ssw0rd', 17),
 ('str0ngP@ss', 18),
-('p@ssw0rd!', 19),
+('p@sww0rd!', 19),
 ('p4ssw0rd1', 20),
 ('saf3p@ss', 21),
 ('s3cur3p@ss', 22),
