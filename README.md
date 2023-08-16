@@ -54,11 +54,11 @@ Para verificar as respostas dessas perguntas você pode rodar o script **Resilia
 Este trabalho foi elaborado por uma squad de 5 pessoas. Cada membro contribuiu com suas habilidades únicas para criar a aplicação. Os integrantes da equipe foram:
 
 <div align="center" float="left">
-  <img src="https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/7c61b697-a0e6-470b-81fb-4590abd37003" width="130"/>
-  <img src="https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/9570f45e-2e6a-4adb-81e1-8ed6a4be84f3" width="130" />
-  <img src="https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/7f78379d-7daa-4c43-ba6a-ce1adec4df3f" width="130" />
-  <img src="https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/e00de6ad-2715-428b-8c05-270cf1cd32be" width="130" />
-  <img src="https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/a834e153-85a6-46aa-8f7b-11faf38bf83f" width="130" />
+  <img src="https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/7c61b697-a0e6-470b-81fb-4590abd37003" width="130" height="30"/>
+  <img src="https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/9570f45e-2e6a-4adb-81e1-8ed6a4be84f3" width="130" height="30"/>
+  <img src="https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/7f78379d-7daa-4c43-ba6a-ce1adec4df3f" width="130" height="30"/>
+  <img src="https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/e00de6ad-2715-428b-8c05-270cf1cd32be" width="130" height="30"/>
+  <img src="https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/a834e153-85a6-46aa-8f7b-11faf38bf83f" width="130" height="30"/>
 
 
 
