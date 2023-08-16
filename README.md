@@ -16,9 +16,7 @@ Criação de um banco de dados usado para armazenar as informações da empresa 
 ## Diagrama do banco de dados 📈
 Para melhor entendimento da estrutura do banco, foi criado um **MER** (Modelo Entidade Relacionamento) para melhor visualização dos relacionamentos e para a modelagem das estruturas das tabelas utilizadas no sistema. 
 
-![Diagrama](https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/e23b2478-f0a2-4825-ad86-70a3455b959a)
-
-<!-- Para acessar o diagrama [clique aqui!](https://dbdiagram.io/)  -->
+![dbDiagrama](https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/e23b2478-f0a2-4825-ad86-70a3455b959a)
 
 ## Entidades 📋 
 O banco foi desenvolvido pensando em 11 entidades principais: 
@@ -42,13 +40,15 @@ O banco foi desenvolvido pensando em 11 entidades principais:
 git clone https://github.com/Thzzao/BancoDeDadosDaResilia.git
 ```
 
-3. Execute o script no MySQL chamado **resilia-schema.sql** para criar o banco de dados em seu computador.
+3. Execute o script no MySQL chamado **Resilia_banco.sql** para criar o banco de dados em seu computador.
 
 4. Execute o script **Resilia_dados.sql** para popular o banco de dados com as informações de cada tabela criada. 
 
 ## Uso 🛠️
 
 Além de todos os cadastros que o banco é capaz de fazer para controlar os dados da empresa, ele também foi usado para responder algumas perguntas de cunho estratégico como por exemplo a porcentagem de estudantes com status de evasão agrupados por turma, a quantidade total de estudantes cadastrados no banco e quais pessoas facilitadoras atuam em mais de uma turma. Além dessas, é possivel fazer pesquisas para atender outras perguntas que nosso banco é capaz de responder.
+
+Para rodas as respostas dessas pesquisar você pode rodar o script **Resilia_perguntas.sql**.
 
 ## Equipe de desenvolvimento ✒️
 Este trabalho foi elaborado por uma squad de 5 pessoas. Cada membro contribuiu com suas habilidades únicas para criar a aplicação. Os integrantes da equipe foram:
