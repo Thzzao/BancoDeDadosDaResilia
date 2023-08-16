@@ -175,11 +175,7 @@ INSERT INTO status (frequencia, nota, evasao) VALUES
 (92, 81, 'ativo'),
 (96, 58, 'ativo'),
 (90, 70, 'inativo'),
-(86, 96, 'ativo'),
-(94, 45, 'inativo'),
-(91, 68, 'ativo'),
-(87, 83, 'ativo'),
-(98, 53, 'ativo');
+(86, 96, 'ativo');
 
 -- Inserção dos dados de todas as pessoas
 INSERT INTO pessoa (nome, email, genero, data_nasc, cpf, telefone, endereco_id) VALUES
