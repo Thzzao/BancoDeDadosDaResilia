@@ -2,10 +2,10 @@
 Projeto em grupo do curso de Desenvolvedor Full Stack da Resilia Educação em parceria com o Ebanx. 
 Desenvolvimento de um banco de dados para gerenciamento da estrutura de ensino da empresa.
 
-## Apresentação
-Criação de um banco de dados usado para armazenar as informações da empresa de cursos Resilia. Foi utilizado o **_MySQL Workbench_** para criar a base de dados seguindo o diagrama feito no **_dbDiagram_** para facilitar a modelagem do banco. Algumas pesquisas foram feitas usando o **_Google Sheets_** para tirar algumas informações interresantes da nossa base de dados. Para melhor organização da equipe na divisão dos trabalhos usamos o **_Trelo_**. E para apresentar o trabalho de maneira mais visual utilizamos o **_Canva_** para estilizar e montar a apresentação. 
+## Apresentação 🚀
+Criação de um banco de dados usado para armazenar as informações da empresa de cursos Resilia. Foi utilizado o [MySQL Workbench](https://www.mysql.com/products/workbench/) para criar a base de dados seguindo o diagrama feito no [dbDiagram](https://dbdiagram.io/home) para facilitar a modelagem do banco. Algumas pesquisas foram feitas usando o [Google Sheets](https://www.google.com/intl/pt-BR/sheets/about/) para tirar algumas informações interresantes da nossa base de dados. Para melhor organização da equipe na divisão dos trabalhos usamos o [Trelo](https://trello.com/pt-BR). E para apresentar o trabalho de maneira mais visual utilizamos o [Canva](https://www.canva.com/pt_br/) para estilizar e montar a apresentação. 
 
-## Funcionalidades 
+## Funcionalidades ⚙️
 - Cadastro de pessoas 
 - Cadastro de endereços de cada pessoa
 - Designação para turma: estudantes e facilitadores 
@@ -13,14 +13,14 @@ Criação de um banco de dados usado para armazenar as informações da empresa 
 - Acompanhamento do status do estudante (ativo ou inativo)
 - Consulta da frequência e das notas de cada aluno
 
-## Diagrama do banco de dados 
+## Diagrama do banco de dados 📈
 Para melhor entendimento da estrutura do banco, foi criado um **MER** (Modelo Entidade Relacionamento) para melhor visualização dos relacionamentos e para a modelagem das estruturas das tabelas utilizadas no sistema. 
 
-![Copy_of_Untitled_Diagram_1](https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/ed082787-2e94-4501-ac1f-7fc7872817fb)
+<!-- ![Copy_of_Untitled_Diagram_1](https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/ed082787-2e94-4501-ac1f-7fc7872817fb) -->
 
 <!-- Para acessar o diagrama [clique aqui!](https://dbdiagram.io/)  -->
 
-## Entidades
+## Entidades 📋 
 O banco foi desenvolvido pensando em 11 entidades principais: 
 - `turma`: tabela onde contém os dados da turma como o nome da turma, período e a identificação do curso.
 - `curso`: contém o nome do curso e a duração.
@@ -34,7 +34,7 @@ O banco foi desenvolvido pensando em 11 entidades principais:
 - `estudante_turma`: tabela usada para verificar o status do estudante e referenciá-lo em uma turma. 
 - `status`: tabela que armazena a situação de cada estudante: suas notas, frequência e taxa de evasão.
 
-## Requisitos e instalação 
+## Requisitos e instalação 🔧
 1. Para usar esse banco de dados primeiro tenha instalado em seu computador o [MySQL Workbench.](https://www.mysql.com/products/workbench/)
 
 2. Após instalado, clone o repositório em sua máquina local:
@@ -46,17 +46,14 @@ git clone https://github.com/Thzzao/BancoDeDadosDaResilia.git
 
 4. Execute o script **Resilia_dados.sql** para popular o banco de dados com as informações de cada tabela criada. 
 
-## Uso 
+## Uso 🛠️
 
+Além de todos os cadastros que o banco é capaz de fazer para controlar os dados da empresa, ele também foi usado para responder algumas perguntas de cunho estratégico como por exemplo a porcentagem de estudantes com status de evasão agrupados por turma, a quantidade total de estudantes cadastrados no banco e quais pessoas facilitadoras atuam em mais de uma turma. Além dessas, é possivel fazer pesquisas para atender outras perguntas que nosso banco é capaz de responder.
 
-<!-- Colocar as pergutas aqui como exemplo de uso -->
-
-
-## Equipe de desenvolvimento
+## Equipe de desenvolvimento ✒️
 Este trabalho foi elaborado por uma squad de 5 pessoas. Cada membro contribuiu com suas habilidades únicas para criar a aplicação. Os integrantes da equipe foram:
 
-<div align="center">
 
-| [<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Jhoshuan Cristopher</p>](https://github.com/Jhosh-Christopher) | [<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Thiago Souza</p>](https://github.com/Thzzao) | [<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Malena Stefano</p>](https://github.com/tsarinatsarina) | [<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Dayane Stefane</p>](https://github.com/Dayane99) | [<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Emerson Chagas</p>](https://github.com/emerchagas) |
 
-</div> 
+
+
