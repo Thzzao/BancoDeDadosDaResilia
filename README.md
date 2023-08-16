@@ -3,7 +3,7 @@ Projeto em grupo do curso de Desenvolvedor Full Stack da Resilia Educação em p
 Desenvolvimento de um banco de dados para gerenciamento da estrutura de ensino da empresa.
 
 ## Apresentação
-Criação de um banco de dados usado para armazenar as informações da empresa de cursos Resilia. Foi utilizado o **MySQL Workbench** para criar a base de dados seguindo o diagrama feito no **dbDiagram** para facilitar a modelagem do banco. Algumas pesquisas foram feitas usando o **Google Sheets** para tirar algumas informações interresantes da nossa base de dados. Para melhor organização da equipe na divisão dos trabalhos usamos o **Trelo**. E para apresentar o trabalho de maneira mais visual utilizamos o **Canva** para estilizar e montar a apresentação. 
+Criação de um banco de dados usado para armazenar as informações da empresa de cursos Resilia. Foi utilizado o {c:blue}**MySQL Workbench**{/c} para criar a base de dados seguindo o diagrama feito no **dbDiagram** para facilitar a modelagem do banco. Algumas pesquisas foram feitas usando o **Google Sheets** para tirar algumas informações interresantes da nossa base de dados. Para melhor organização da equipe na divisão dos trabalhos usamos o **Trelo**. E para apresentar o trabalho de maneira mais visual utilizamos o **Canva** para estilizar e montar a apresentação. 
 
 ## Funcionalidades 
 - Cadastro de pessoas 
