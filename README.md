@@ -3,7 +3,7 @@ Projeto em grupo do curso de Desenvolvedor Full Stack da Resilia Educação em p
 Desenvolvimento de um banco de dados para gerenciamento da estrutura de ensino da empresa.
 
 ## Apresentação
-Criação de um banco de dados usado para armazenar as informações da empresa de cursos Resilia. Foi utilizado o {c:blue}**MySQL Workbench**{/c} para criar a base de dados seguindo o diagrama feito no **dbDiagram** para facilitar a modelagem do banco. Algumas pesquisas foram feitas usando o **Google Sheets** para tirar algumas informações interresantes da nossa base de dados. Para melhor organização da equipe na divisão dos trabalhos usamos o **Trelo**. E para apresentar o trabalho de maneira mais visual utilizamos o **Canva** para estilizar e montar a apresentação. 
+Criação de um banco de dados usado para armazenar as informações da empresa de cursos Resilia. Foi utilizado o **_MySQL Workbench_** para criar a base de dados seguindo o diagrama feito no **_dbDiagram_** para facilitar a modelagem do banco. Algumas pesquisas foram feitas usando o **_Google Sheets_** para tirar algumas informações interresantes da nossa base de dados. Para melhor organização da equipe na divisão dos trabalhos usamos o **_Trelo_**. E para apresentar o trabalho de maneira mais visual utilizamos o **_Canva_** para estilizar e montar a apresentação. 
 
 ## Funcionalidades 
 - Cadastro de pessoas 
@@ -54,30 +54,16 @@ git clone https://github.com/Thzzao/BancoDeDadosDaResilia.git
 ## Equipe de desenvolvimento
 Este trabalho foi elaborado por uma squad de 5 pessoas. Cada membro contribuiu com suas habilidades únicas para criar a aplicação. Os integrantes da equipe foram:
 
-<div class="container">
+<div align="center">
 
-[<img class="imagem" src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG"><p>Jhoshuan Cristopher</p>](https://github.com/Jhosh-Christopher)
+[<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Jhoshuan Cristopher</p>](https://github.com/Jhosh-Christopher)
 
-[<img class="imagem" src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG"><p>Thiago Souza</p>](https://github.com/Thzzao) 
+[<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Thiago Souza</p>](https://github.com/Thzzao) 
 
-[<img class="imagem" src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG"><p>Malena Stefano</p>](https://github.com/tsarinatsarina)
+[<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Malena Stefano</p>](https://github.com/tsarinatsarina)
 
-[<img class="imagem" src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG"><p>Dayane Stefane</p>](https://github.com/Dayane99) 
+[<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Dayane Stefane</p>](https://github.com/Dayane99) 
 
-[<img class="imagem" src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG"><p>Emerson Chagas</p>](https://github.com/emerchagas)
+[<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Emerson Chagas</p>](https://github.com/emerchagas)
 
 </div> 
-<style>
-    .container{
-        display: flex;
-        flex-direction: column;
-        height: 200px;
-        justify-content: center;
-        align-items: center;
-        flex-wrap: wrap;
-    }
-    .imagem{
-        width:100px;
-    }
-</style>
-
