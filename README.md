@@ -17,7 +17,8 @@ Criação de um banco de dados usado para armazenar as informações da empresa 
 Para melhor entendimento da estrutura do banco, foi criado um **MER** (Modelo Entidade Relacionamento) para melhor visualização dos relacionamentos e para a modelagem das estruturas das tabelas utilizadas no sistema. 
 
 ![Copy_of_Untitled_Diagram_1](https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/ed082787-2e94-4501-ac1f-7fc7872817fb)
-Para acessar o diagrama [clique aqui!](https://dbdiagram.io/) 
+
+<!-- Para acessar o diagrama [clique aqui!](https://dbdiagram.io/)  -->
 
 ## Entidades
 O banco foi desenvolvido pensando em 11 entidades principais: 
@@ -56,14 +57,6 @@ Este trabalho foi elaborado por uma squad de 5 pessoas. Cada membro contribuiu c
 
 <div align="center">
 
-[<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Jhoshuan Cristopher</p>](https://github.com/Jhosh-Christopher)
-
-[<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Thiago Souza</p>](https://github.com/Thzzao) 
-
-[<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Malena Stefano</p>](https://github.com/tsarinatsarina)
-
-[<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Dayane Stefane</p>](https://github.com/Dayane99) 
-
-[<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Emerson Chagas</p>](https://github.com/emerchagas)
+| [<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Jhoshuan Cristopher</p>](https://github.com/Jhosh-Christopher) | [<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Thiago Souza</p>](https://github.com/Thzzao) | [<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Malena Stefano</p>](https://github.com/tsarinatsarina) | [<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Dayane Stefane</p>](https://github.com/Dayane99) | [<img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width=115><p>Emerson Chagas</p>](https://github.com/emerchagas) |
 
 </div> 
