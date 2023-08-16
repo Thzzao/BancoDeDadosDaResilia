@@ -16,7 +16,7 @@ Criação de um banco de dados usado para armazenar as informações da empresa 
 ## Diagrama do banco de dados 📈
 Para melhor entendimento da estrutura do banco, foi criado um **MER** (Modelo Entidade Relacionamento) para melhor visualização dos relacionamentos e para a modelagem das estruturas das tabelas utilizadas no sistema. 
 
-<!-- ![Copy_of_Untitled_Diagram_1](https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/ed082787-2e94-4501-ac1f-7fc7872817fb) -->
+![Diagrama](https://github.com/Thzzao/BancoDeDadosDaResilia/assets/95200381/e23b2478-f0a2-4825-ad86-70a3455b959a)
 
 <!-- Para acessar o diagrama [clique aqui!](https://dbdiagram.io/)  -->
 
@@ -52,6 +52,19 @@ Além de todos os cadastros que o banco é capaz de fazer para controlar os dado
 
 ## Equipe de desenvolvimento ✒️
 Este trabalho foi elaborado por uma squad de 5 pessoas. Cada membro contribuiu com suas habilidades únicas para criar a aplicação. Os integrantes da equipe foram:
+
+<div align="center" float="left">
+  <img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width="130"/>
+  <img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width="130" />
+  <img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width="130" />
+  <img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width="130" />
+  <img src="https://manicpixiecat.github.io/ProjetoSquad3/src/img/Integrantes/Thiago.JPG" width="130" />
+
+
+
+### [Jhoshuan Cristopher](https://github.com/Jhosh-Christopher) | [Thiago Souza](https://github.com/Thzzao) | [Malena Stefano](https://github.com/tsarinatsarina) | [Dayane Stefane](https://github.com/Dayane99) | [Emerson Chagas</p>](https://github.com/emerchagas)
+
+</div> 
 
 
 
