@@ -51,7 +51,7 @@ CREATE TABLE `pessoa` (
   `email` VARCHAR(50) NOT NULL,
   `genero` VARCHAR(30),
   `data_nasc` DATE NOT NULL,
-  `telefone` VARCHAR(15) NOT NULL,
+  `telefone` VARCHAR(11) NOT NULL,
   `cpf` VARCHAR(11) NOT NULL,
   `endereco_id` INT NOT NULL,
   FOREIGN KEY (`endereco_id`) REFERENCES `endereco` (`endereco_id`)
