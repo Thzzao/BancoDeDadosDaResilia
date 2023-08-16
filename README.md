@@ -48,7 +48,7 @@ git clone https://github.com/Thzzao/BancoDeDadosDaResilia.git
 
 Além de todos os cadastros que o banco é capaz de fazer para controlar os dados da empresa, ele também foi usado para responder algumas perguntas de cunho estratégico como por exemplo: a porcentagem de estudantes com status de evasão agrupados por turma, a quantidade total de estudantes cadastrados no banco, quais pessoas facilitadoras atuam em mais de uma turma, quais estudantes tem a frequência acima de 80% e notas maiores ou iguais a 7 ou notas menores ou iguais a 5. Além dessas, é possivel fazer pesquisas para atender outras perguntas que nosso banco é capaz de responder.
 
-Para verificar as respostas dessas perguntas você pode rodar o script **Resilia_perguntas.sql** onde as queries (consultas) estão prontas, só será necessário rodar elas no [MySQL Workbench.](https://www.mysql.com/products/workbench/) após a criação do banco e da população na parte de *Requisitos e instalação*.
+Para verificar as respostas dessas perguntas você pode rodar o script **Resilia_perguntas.sql** onde as queries (consultas) estão prontas, só será necessário rodar elas no [MySQL Workbench](https://www.mysql.com/products/workbench/) após a criação do banco e da população na parte de *Requisitos e instalação*.
 
 ## Equipe de desenvolvimento ✒️
 Este trabalho foi elaborado por uma squad de 5 pessoas. Cada membro contribuiu com suas habilidades únicas para criar a aplicação. Os integrantes da equipe foram:
